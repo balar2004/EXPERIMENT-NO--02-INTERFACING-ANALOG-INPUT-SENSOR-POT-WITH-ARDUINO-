@@ -81,13 +81,13 @@ void loop()
 ```
 
 ## Simulation Output:
-# ON Condition:
+### ON Condition:
 ![Screenshot 2024-02-23 155655](https://github.com/balar2004/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/118791778/41a09414-d691-490d-8aac-4745e0b47e1d)
 
-# OFF Condition:
+### OFF Condition:
 ![Screenshot 2024-02-23 154801](https://github.com/balar2004/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/118791778/042bd547-4e84-464f-bc9d-1a1f4ba2a5e8)
 
-# Graph:
+### Graph:
 ![Screenshot 2024-02-23 155147](https://github.com/balar2004/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/118791778/eae1e5ec-6fb7-4be6-be41-ca91833cfc0b)
 
 ## RESULT:
