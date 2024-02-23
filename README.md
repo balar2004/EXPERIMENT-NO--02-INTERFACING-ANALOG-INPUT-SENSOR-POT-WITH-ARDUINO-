@@ -1,5 +1,8 @@
- INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
-
+## INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
+### Date:23/02/2004
+### Name:Bala R
+### Rollnumber:212222220007
+### Department:B.Tech IT
 ## AIM:
 To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
@@ -89,6 +92,9 @@ void loop()
 
 ### Graph:
 ![Screenshot 2024-02-23 155147](https://github.com/balar2004/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/118791778/eae1e5ec-6fb7-4be6-be41-ca91833cfc0b)
+
+### Sematic Diagram:
+![EXP-02 Bala R 212222220007](https://github.com/balar2004/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/118791778/b3a4eacb-0e01-4153-868c-12973d61cd4a)
 
 ## RESULT:
 Arduino uno analog input functioning is learned and interfaced with digital input switch.
